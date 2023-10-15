@@ -1,2 +1,0 @@
-This is test3.tst file 
-this is test 3.txt file 
